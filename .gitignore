@@ -1,0 +1,17 @@
+#Compiled
+*.o
+*.exe
+*.out
+
+#Code::Blocks files
+*.cbp
+*.layout
+*.depend
+
+#build foders
+bin/
+obj/
+build/
+
+#other
+*.a

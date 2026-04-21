@@ -275,7 +275,7 @@ int main() {
 	double lenyomva = false;
     vector<lovedek*> lovedekek;
 
-    int szint = 3;
+    int szint = 1;
 
     int game_state = 0;
 
